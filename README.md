@@ -20,12 +20,12 @@ python MLP.py
 python app.py
 ```
 
-## Additional files/folders
+## Additional files/folders that are optional to run/see
 *get_keypoint_data.py* is used for extracting the raw kepoint data from the data located in the yogads folder
 Run it if you want to see how the raw data is extracted
 *keypoint_data.txt* is the output of this file
 
-*gridsearch.py* are used for optimization and you may run it to find to see how we optimized our code
+*gridsearch.py* is used for MLP optimization and you may run it to find to see how we found the best parameters to train our MLP
 
 *sampleposes* just contains the images used in conjunction with the webcam
 
