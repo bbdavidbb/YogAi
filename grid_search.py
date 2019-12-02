@@ -14,7 +14,6 @@ with open("keypoint_data.txt","r") as myfile:
 X = []
 Y = []
 
-#kfold = StratifiedKFold(n_splits = 5)
 
 label_to_no = {"tree": 0, "warrior1":1, "warrior2":2, "childs":3,"downwarddog":4,"plank":5,"mountain":6,"trianglepose":7}
 for line in data:
