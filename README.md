@@ -35,3 +35,6 @@ Run it if you want to see how the raw data is extracted
 
 * Final Report and Efficient Net Reports for project * 
 
+## Slides
+https://docs.google.com/presentation/d/1pwgeNmPPewbE9TFqNUettRD5vyq0Fc5I4fMX1u-p0ws/edit?usp=sharing
+
