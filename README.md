@@ -33,7 +33,7 @@ Run it if you want to see how the raw data is extracted
 
 *sampleposes* just contains the yoga pose images used in conjunction with app.py to display correctly classified yoga poses
 
-* Final Report and Efficient Net Reports for project * 
+*Final Report and Efficient Net Report are the reports for our project* 
 
 ## Slides
 https://docs.google.com/presentation/d/1pwgeNmPPewbE9TFqNUettRD5vyq0Fc5I4fMX1u-p0ws/edit?usp=sharing
