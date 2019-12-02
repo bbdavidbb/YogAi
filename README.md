@@ -21,12 +21,12 @@ python app.py
 ```
 
 ## Additional files/folders
-1. *get_keypoint_data.py* is used for extracting the raw kepoint data from the data located in the yogads folder
+*get_keypoint_data.py* is used for extracting the raw kepoint data from the data located in the yogads folder
 Run it if you want to see how the raw data is extracted
 *keypoint_data.txt* is the output of this file
 
-2. *gridsearch.py* are used for optimization and you may run it to find to see how we optimized our code
+*gridsearch.py* are used for optimization and you may run it to find to see how we optimized our code
 
-3. *sampleposes* just contains the images used in conjunction with the webcam
+*sampleposes* just contains the images used in conjunction with the webcam
 
 
