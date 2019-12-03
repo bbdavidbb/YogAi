@@ -1,17 +1,5 @@
 # Real Time Classification of Yoga Poses using SimpleHRNet
 
-## About
-This page (code, report and presentation) is the group D submission for Final project for CS256: Selected Topic in Artificial Intelligence, Section 2. Led by Instructor: Mashhour Solh, Ph.D.
-
-The group members are Aniket Chandak, Ashraf Saber, David Bui, Deanne Kshipra Charan, Hardik Kumar, and Siddartha Thentu
-
-The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: david.bui01@sjsu.edu
-
-## Credits
-This project was conducted with free credits provided by AWS educate team.
-
-
-## Description
 Using a simplified implementation of HRNet [Deep High-Resolution Representation Learning for Human Pose Estimation
 ](https://arxiv.org/abs/1902.09212) we created a app that takes real time recording from a webcam, performs pose estimation of each frame of the recording, and displays the clostest approximated yoga pose that the person is performing. 
 
@@ -49,4 +37,14 @@ Run it if you want to see how the raw data is extracted
 
 ## Slides
 https://docs.google.com/presentation/d/1pwgeNmPPewbE9TFqNUettRD5vyq0Fc5I4fMX1u-p0ws/edit?usp=sharing
+
+## About
+This page (code, report and presentation) is the group D submission for Final project for CS256: Selected Topic in Artificial Intelligence, Section 2. Led by Instructor: Mashhour Solh, Ph.D.
+
+The group members are Aniket Chandak, Ashraf Saber, David Bui, Deanne Kshipra Charan, Hardik Kumar, and Siddartha Thentu
+
+The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: david.bui01@sjsu.edu
+
+## Credits
+This project was conducted with free credits provided by AWS educate team.
 
