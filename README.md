@@ -33,5 +33,18 @@ Run it if you want to see how the raw data is extracted
 
 *sampleposes* just contains the yoga pose images used in conjunction with app.py to display correctly classified yoga poses
 
-* Final Report and Efficient Net Reports for project * 
+*Final Report and Efficient Net Report are the reports for our project* 
+
+## Slides
+https://docs.google.com/presentation/d/1pwgeNmPPewbE9TFqNUettRD5vyq0Fc5I4fMX1u-p0ws/edit?usp=sharing
+
+## About
+This page (code, report and presentation) is the group D submission for Final project for CS256: Selected Topic in Artificial Intelligence, Section 2. Led by Instructor: Mashhour Solh, Ph.D.
+
+The group members are Aniket Chandak, Ashraf Saber, David Bui, Deanne Kshipra Charan, Hardik Kumar, and Siddartha Thentu
+
+The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: david.bui01@sjsu.edu
+
+## Credits
+This project was conducted with free credits provided by AWS educate team.
 
